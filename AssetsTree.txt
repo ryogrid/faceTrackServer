@@ -1,0 +1,278 @@
+Assets
+„¥„ŸDlibFaceLandmarkDetector
+„   „¥„ŸEditor
+„   „¥„ŸExamples
+„   „   „¥„ŸCatDetectionExample
+„   „   „¥„ŸResources
+„   „   „¥„ŸTexture2DExample
+„   „   „¤„ŸWebCamTextureExample
+„   „¥„ŸExtra
+„   „   „¥„Ÿenable_avx
+„   „   „   „¥„Ÿdlibfacelandmarkdetector.bundle
+„   „   „   „   „¤„ŸContents
+„   „   „   „       „¤„ŸMacOS
+„   „   „   „¥„ŸWSA
+„   „   „   „   „¤„ŸUWP
+„   „   „   „       „¥„Ÿx64
+„   „   „   „       „¤„Ÿx86
+„   „   „   „¥„Ÿx86
+„   „   „   „¤„Ÿx86_64
+„   „   „¤„Ÿenable_sse4
+„   „       „¥„Ÿdlibfacelandmarkdetector.bundle
+„   „       „   „¤„ŸContents
+„   „       „       „¤„ŸMacOS
+„   „       „¥„ŸWSA
+„   „       „   „¤„ŸUWP
+„   „       „       „¥„Ÿx64
+„   „       „       „¤„Ÿx86
+„   „       „¥„Ÿx86
+„   „       „¤„Ÿx86_64
+„   „¥„ŸPlugins
+„   „   „¥„ŸAndroid
+„   „   „   „¤„Ÿlibs
+„   „   „       „¥„Ÿarm64-v8a
+„   „   „       „¥„Ÿarmeabi-v7a
+„   „   „       „¤„Ÿx86
+„   „   „¥„Ÿdlibfacelandmarkdetector.bundle
+„   „   „   „¤„ŸContents
+„   „   „       „¤„ŸMacOS
+„   „   „¥„ŸiOS
+„   „   „¥„ŸWebGL
+„   „   „   „¥„Ÿ5.3-5.4
+„   „   „   „¥„Ÿ5.5
+„   „   „   „¤„Ÿ5.6
+„   „   „¥„ŸWSA
+„   „   „   „¤„ŸUWP
+„   „   „       „¥„ŸARM
+„   „   „       „¥„Ÿx64
+„   „   „       „¤„Ÿx86
+„   „   „¥„Ÿx86
+„   „   „¤„Ÿx86_64
+„   „¥„ŸScripts
+„   „¤„ŸStreamingAssets
+„¥„ŸDlibFaceLandmarkDetectorWithLive2DSample
+„   „¥„ŸScenes
+„   „¤„ŸScripts
+„¥„ŸOpenCVForUnity
+„   „¥„ŸEditor
+„   „¥„ŸExtra
+„   „   „¤„Ÿexclude_contrib
+„   „       „¥„ŸAndroid
+„   „       „   „¤„Ÿlibs
+„   „       „       „¥„Ÿarm64-v8a
+„   „       „       „¥„Ÿarmeabi-v7a
+„   „       „       „¤„Ÿx86
+„   „       „¤„ŸiOS
+„   „           „¤„Ÿopencv2.framework
+„   „               „¤„ŸHeaders
+„   „                   „¥„Ÿcalib3d
+„   „                   „¥„Ÿcore
+„   „                   „   „¥„Ÿhal
+„   „                   „   „¤„Ÿutils
+„   „                   „¥„Ÿdnn
+„   „                   „¥„Ÿfeatures2d
+„   „                   „   „¤„Ÿhal
+„   „                   „¥„Ÿflann
+„   „                   „¥„Ÿhighgui
+„   „                   „¥„Ÿimgcodecs
+„   „                   „¥„Ÿimgproc
+„   „                   „   „¥„Ÿdetail
+„   „                   „   „¤„Ÿhal
+„   „                   „¥„Ÿml
+„   „                   „¥„Ÿobjdetect
+„   „                   „¥„Ÿphoto
+„   „                   „¥„Ÿshape
+„   „                   „¥„Ÿstitching
+„   „                   „   „¤„Ÿdetail
+„   „                   „¥„Ÿvideo
+„   „                   „¥„Ÿvideoio
+„   „                   „¤„Ÿvideostab
+„   „¥„Ÿorg
+„   „   „¥„Ÿopencv
+„   „   „   „¥„Ÿcalib3d
+„   „   „   „¥„Ÿcore
+„   „   „   „¥„Ÿdnn
+„   „   „   „¥„Ÿfeatures2d
+„   „   „   „¥„Ÿimgcodecs
+„   „   „   „¥„Ÿimgproc
+„   „   „   „¥„Ÿml
+„   „   „   „¥„Ÿobjdetect
+„   „   „   „¥„Ÿphoto
+„   „   „   „¥„Ÿshape
+„   „   „   „¥„Ÿunity
+„   „   „   „¥„Ÿutils
+„   „   „   „¥„Ÿvideo
+„   „   „   „¤„Ÿvideoio
+„   „   „¤„Ÿopencv_contrib
+„   „       „¥„Ÿaruco
+„   „       „¥„Ÿbgsegm
+„   „       „¥„Ÿbioinspired
+„   „       „¥„Ÿccalib
+„   „       „¥„Ÿface
+„   „       „¥„Ÿfuzzy
+„   „       „¥„Ÿimg_hash
+„   „       „¥„Ÿoptflow
+„   „       „¥„Ÿphase_unwrapping
+„   „       „¥„Ÿplot
+„   „       „¥„Ÿreg
+„   „       „¥„Ÿsaliency
+„   „       „¥„Ÿstructured_light
+„   „       „¥„Ÿtext
+„   „       „¥„Ÿtracking
+„   „       „¥„Ÿxfeatures2d
+„   „       „¥„Ÿximgproc
+„   „       „¤„Ÿxphoto
+„   „¥„ŸPlugins
+„   „   „¥„ŸAndroid
+„   „   „   „¤„Ÿlibs
+„   „   „       „¥„Ÿarm64-v8a
+„   „   „       „¥„Ÿarmeabi-v7a
+„   „   „       „¤„Ÿx86
+„   „   „¥„ŸiOS
+„   „   „   „¤„Ÿopencv2.framework
+„   „   „       „¤„ŸHeaders
+„   „   „           „¥„Ÿaruco
+„   „   „           „¥„Ÿbioinspired
+„   „   „           „¥„Ÿcalib3d
+„   „   „           „¥„Ÿccalib
+„   „   „           „¥„Ÿcore
+„   „   „           „   „¥„Ÿhal
+„   „   „           „   „¤„Ÿutils
+„   „   „           „¥„Ÿdnn
+„   „   „           „¥„Ÿface
+„   „   „           „¥„Ÿfeatures2d
+„   „   „           „   „¤„Ÿhal
+„   „   „           „¥„Ÿflann
+„   „   „           „¥„Ÿfuzzy
+„   „   „           „¥„Ÿhighgui
+„   „   „           „¥„Ÿimgcodecs
+„   „   „           „¥„Ÿimgproc
+„   „   „           „   „¥„Ÿdetail
+„   „   „           „   „¤„Ÿhal
+„   „   „           „¥„Ÿimg_hash
+„   „   „           „¥„Ÿml
+„   „   „           „¥„Ÿobjdetect
+„   „   „           „¥„Ÿoptflow
+„   „   „           „¥„Ÿphase_unwrapping
+„   „   „           „¥„Ÿphoto
+„   „   „           „¥„Ÿreg
+„   „   „           „¥„Ÿsaliency
+„   „   „           „¥„Ÿshape
+„   „   „           „¥„Ÿstitching
+„   „   „           „   „¤„Ÿdetail
+„   „   „           „¥„Ÿstructured_light
+„   „   „           „¥„Ÿtext
+„   „   „           „¥„Ÿtracking
+„   „   „           „¥„Ÿvideo
+„   „   „           „¥„Ÿvideoio
+„   „   „           „¥„Ÿvideostab
+„   „   „           „¥„Ÿxfeatures2d
+„   „   „           „¥„Ÿximgproc
+„   „   „           „¤„Ÿxphoto
+„   „   „¥„ŸLinux
+„   „   „   „¥„Ÿx86
+„   „   „   „¤„Ÿx86_64
+„   „   „¥„Ÿopencvforunity.bundle
+„   „   „   „¤„ŸContents
+„   „   „       „¥„ŸMacOS
+„   „   „       „¤„ŸResources
+„   „   „           „¥„ŸGLEW
+„   „   „           „¤„ŸUnity
+„   „   „¥„ŸWebGL
+„   „   „   „¤„Ÿ5.6
+„   „   „¥„ŸWin
+„   „   „   „¥„Ÿx86
+„   „   „   „¤„Ÿx86_64
+„   „   „¤„ŸWSA
+„   „       „¤„ŸUWP
+„   „           „¥„ŸARM
+„   „           „¥„Ÿx64
+„   „           „¤„Ÿx86
+„   „¥„ŸScripts
+„   „   „¥„ŸAdvanced
+„   „   „   „¥„ŸAlphaBlendingExample
+„   „   „   „¥„ŸComicFilterExample
+„   „   „   „¥„ŸGreenScreenExample
+„   „   „   „¥„ŸHandPoseEstimationExample
+„   „   „   „¥„ŸMatToTextureInRenderThreadExample
+„   „   „   „¥„ŸMultiObjectTrackingBasedOnColorExample
+„   „   „   „¤„ŸPolygonFilterExample
+„   „   „¥„ŸBasic
+„   „   „   „¥„ŸMatBasicProcessingExample
+„   „   „   „¥„ŸTexture2DToMatExample
+„   „   „   „¥„ŸWebCamTextureToMatExample
+„   „   „   „¤„ŸWebCamTextureToMatHelperExample
+„   „   „¥„ŸContribModules
+„   „   „   „¥„Ÿaruco
+„   „   „   „   „¤„ŸArUcoExample
+„   „   „   „¥„Ÿface
+„   „   „   „   „¤„ŸFaceRecognizerExample
+„   „   „   „¥„Ÿplot
+„   „   „   „   „¤„ŸPlotExample
+„   „   „   „¥„Ÿtext
+„   „   „   „   „¤„ŸTextExample
+„   „   „   „¤„Ÿtracking
+„   „   „       „¤„ŸTrackingExample
+„   „   „¥„ŸMainModules
+„   „   „   „¥„Ÿcalib3d
+„   „   „   „   „¤„ŸStereoBMExample
+„   „   „   „¥„Ÿcore
+„   „   „   „   „¤„ŸPCAExample
+„   „   „   „¥„Ÿdnn
+„   „   „   „   „¥„ŸCaffeExample
+„   „   „   „   „¥„ŸTensorFlowExample
+„   „   „   „   „¤„ŸYoloExample
+„   „   „   „¥„Ÿfeatures2d
+„   „   „   „   „¥„ŸFeature2DExample
+„   „   „   „   „¥„ŸMSERExample
+„   „   „   „   „¤„ŸSimpleBlobExample
+„   „   „   „¥„Ÿimgcodecs
+„   „   „   „   „¤„ŸImwriteScreenCaptureExample
+„   „   „   „¥„Ÿimgproc
+„   „   „   „   „¥„ŸCircleDetectionExample
+„   „   „   „   „¥„ŸConnectedComponentsExample
+„   „   „   „   „¥„ŸConvexHullExample
+„   „   „   „   „¥„ŸDrawingExample
+„   „   „   „   „¥„ŸGrabCutExample
+„   „   „   „   „¥„ŸHoughLinesPExample
+„   „   „   „   „¥„ŸMatchShapesExample
+„   „   „   „   „¥„ŸMatchTemplateExample
+„   „   „   „   „¥„ŸThresholdExample
+„   „   „   „   „¤„ŸWrapPerspectiveExample
+„   „   „   „¥„Ÿml
+„   „   „   „   „¤„ŸSVMExample
+„   „   „   „¥„Ÿobjdetect
+„   „   „   „   „¥„ŸFaceDetectionExample
+„   „   „   „   „¤„ŸHOGDescriptorExample
+„   „   „   „¥„Ÿphoto
+„   „   „   „   „¥„ŸInpaintExample
+„   „   „   „   „¤„ŸSeamlessCloneExample
+„   „   „   „¥„Ÿshape
+„   „   „   „   „¤„ŸThinPlateSplineShapeTransformerExample
+„   „   „   „¥„Ÿvideo
+„   „   „   „   „¥„ŸBackgroundSubtractorMOG2Example
+„   „   „   „   „¥„ŸCamShiftExample
+„   „   „   „   „¥„ŸKalmanFilterExample
+„   „   „   „   „¤„ŸOpticalFlowExample
+„   „   „   „¤„Ÿvideoio
+„   „   „       „¥„ŸVideoCaptureExample
+„   „   „       „¤„ŸVideoWriterExample
+„   „   „¤„ŸResources
+„   „       „¤„Ÿar_markers
+„   „¤„ŸStreamingAssets
+„       „¥„Ÿcalibration_images
+„       „¥„Ÿdnn
+„       „¥„Ÿfacerec
+„       „¤„Ÿtext
+„¥„ŸPlugins
+„   „¥„Ÿframework
+„   „¤„ŸResources
+„       „¤„Ÿshader
+„           „¤„Ÿmerged
+„¥„ŸScenes
+„¤„ŸStreamingAssets
+    „¤„Ÿshizuku
+        „¥„Ÿexpressions
+        „¥„Ÿmotions
+        „¥„Ÿshizuku.1024
+        „¤„Ÿsounds
